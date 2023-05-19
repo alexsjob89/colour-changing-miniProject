@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colour-changing-miniProject/static/css/main.94d31088.css",
+    "main.js": "/colour-changing-miniProject/static/js/main.5d305a17.js",
+    "index.html": "/colour-changing-miniProject/index.html",
+    "main.94d31088.css.map": "/colour-changing-miniProject/static/css/main.94d31088.css.map",
+    "main.5d305a17.js.map": "/colour-changing-miniProject/static/js/main.5d305a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d31088.css",
+    "static/js/main.5d305a17.js"
+  ]
+}
